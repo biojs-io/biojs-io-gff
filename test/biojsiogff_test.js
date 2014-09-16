@@ -27,5 +27,18 @@ test("test with fs", function(done) {
     obj.should.eql(expectedResult);
     done();
   });
+});
 
+test("test with fer1", function(done) {
+  var expectedResult = JSON.parse(fs.readFileSync(__dirname + '/fer1.json', 'utf8'));
+  fs.readFile(__dirname + '/fer1.gff','utf8', function(err,data){
+    if (err) {
+      return console.log(err);
+    }
+    var obj = biojsiogff.parse(data);
+    console.log(JSON.stringify(obj));
+    obj = JSON.parse(JSON.stringify(obj));
+    obj.should.eql(expectedResult);
+    done();
+  });
 });
