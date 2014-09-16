@@ -13,24 +13,38 @@
 Install the module with: `npm install biojs-io-gff`
 
 ```javascript
-var biojsiogff = require('biojs-io-gff');
-biojsiogff.hello("biojs"); // "hello biojs"
+var gff = require('biojs-io-gff');
+gff.hello("biojs"); // "hello biojs"
 ```
 
 ## Documentation
 
-#### .hello(name)
+#### .parse(file)
 
-**Parameter**: `name`
+**Parameter**: `file`
 **Type**: `String`
-**Example**: `biojs`
+**Example**: `SEQ1  EMBL  atg  103  105  .  +  0`
 
-The 'hello' method is responsible for showing a name.
+The 'parse' method converts a GFF into its JSON representation.
 
 How to use this method
 
 ```javascript
-biojsiogff.hello('biojs'); // "hello biojs"
+gff.parse('SEQ1  EMBL  atg  103  105  .  +  0');
+```
+
+__Result__
+
+```
+[ { seqname: 'SEQ1',
+    source: 'EMBL',
+    feature: 'atg',
+    start: '103',
+    end: '105',
+    score: undefined,
+    strand: '+',
+    frame: '0',
+    attributes: '' } ]
 ```
 
 ## Contributing
