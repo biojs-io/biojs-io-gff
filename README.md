@@ -7,7 +7,9 @@
 
 [Official Spec](https://www.sanger.ac.uk/resources/software/gff/spec.html)
 
->  <seqname> <source> <feature> <start> <end> <score> <strand> <frame> [attributes] [comments]
+```
+<seqname> <source> <feature> <start> <end> <score> <strand> <frame> [attributes] [comments]
+```
 
 ## Getting Started
 Install the module with: `npm install biojs-io-gff`
