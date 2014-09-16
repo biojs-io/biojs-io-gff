@@ -1,7 +1,7 @@
 {
   "name": "biojs-io-gff",
   "description": "A GFF (general feature format) parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/greenify/biojs-io-gff",
   "author": {
     "name": "greenify",
@@ -24,11 +24,13 @@
   "scripts": {
     "test": "gulp test",
     "build-browser": "mkdirp build; browserify browser.js -o build/biojs-io-gff.js",
-	"build-browser-min": "gulp build-browser-gzip",
-	"prepublish": "gulp",
+    "build-browser-min": "gulp build-browser-gzip",
+    "prepublish": "gulp",
     "watch": "mkdirp build; watchify browser.js -o build/biojs-io-gff.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "nets": "^1.0.0"
+  },
   "devDependencies": {
     "browserify": "~4.2.0",
     "chai": "^1.9.1",
@@ -46,5 +48,11 @@
     "uglify-js": "~2.4.15",
     "watchify": "^1.0.2"
   },
-  "keywords": ["biojs","io","gff","parser","feature"]
+  "keywords": [
+    "biojs",
+    "io",
+    "gff",
+    "parser",
+    "feature"
+  ]
 }

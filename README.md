@@ -49,6 +49,14 @@ __Result__
     attributes: '' } ]
 ```
 
+#### .read(url)
+
+**Parameter**: `url`
+**Type**: `String`
+**Example**: `https://raw.githubusercontent.com/greenify/biojs-io-gff/master/test/dummy.gff`
+
+
+
 ## Contributing
 
 Please submit all issues and pull requests to the [greenify/biojs-io-gff](http://github.com/greenify/biojs-io-gff) repository!
