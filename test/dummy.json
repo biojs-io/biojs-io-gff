@@ -1,0 +1,72 @@
+[
+    {
+      "seqname": "SEQ1"
+    , "source": "EMBL"
+    , "feature": "atg"
+    , "start": "103"
+    , "end": "105"
+    , "strand": "+"
+    , "frame": "0"
+    , "attributes": ""
+  }
+  , {
+      "seqname": "SEQ1"
+    , "source": "EMBL"
+    , "feature": "exon"
+    , "start": "103"
+    , "end": "172"
+    , "strand": "+"
+    , "frame": "0"
+    , "attributes": ""
+  }
+  , {
+      "seqname": "SEQ1"
+    , "source": "EMBL"
+    , "feature": "splice5"
+    , "start": "172"
+    , "end": "173"
+    , "strand": "+"
+    , "attributes": ""
+  }
+  , {
+      "seqname": "SEQ1"
+    , "source": "netgene"
+    , "feature": "splice5"
+    , "start": "172"
+    , "end": "173"
+    , "score": "0.94"
+    , "strand": "+"
+    , "attributes": ""
+  }
+  , {
+      "seqname": "SEQ1"
+    , "source": "genie"
+    , "feature": "sp5-20"
+    , "start": "163"
+    , "end": "182"
+    , "score": "2.3"
+    , "strand": "+"
+    , "attributes": ""
+  }
+  , {
+      "seqname": "SEQ1"
+    , "source": "genie"
+    , "feature": "sp5-10"
+    , "start": "168"
+    , "end": "177"
+    , "score": "2.1"
+    , "strand": "+"
+    , "attributes": ""
+  }
+  , {
+      "seqname": "SEQ2"
+    , "source": "grail"
+    , "feature": "ATG"
+    , "start": "17"
+    , "end": "19"
+    , "score": "2.1"
+    , "strand": "-"
+    , "frame": "0"
+    , "attributes": ""
+  }
+]
