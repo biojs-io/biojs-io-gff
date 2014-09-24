@@ -1,7 +1,7 @@
 {
   "name": "biojs-io-gff",
   "description": "A GFF (general feature format) parser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/greenify/biojs-io-gff",
   "author": {
     "name": "greenify",
@@ -48,6 +48,11 @@
     "uglify-js": "~2.4.15",
     "watchify": "^1.0.2"
   },
+  "shields": {
+     "build": {
+  	  "img": "https://travis-ci.org/greenify/biojs-io-gff.svg?branch=master",
+  	  "href": "https://travis-ci.org/greenify/biojs-io-gff"
+   },
   "keywords": [
     "biojs",
     "io",
