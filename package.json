@@ -52,6 +52,7 @@
      "build": {
   	  "img": "https://travis-ci.org/greenify/biojs-io-gff.svg?branch=master",
   	  "href": "https://travis-ci.org/greenify/biojs-io-gff"
+	 }
    },
   "keywords": [
     "biojs",
