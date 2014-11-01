@@ -36,7 +36,20 @@ test("test with fer1", function(done) {
       return console.log(err);
     }
     var obj = biojsiogff.parse(data);
-    console.log(JSON.stringify(obj));
+    //console.log(JSON.stringify(obj));
+    obj = JSON.parse(JSON.stringify(obj));
+    obj.should.eql(expectedResult);
+    done();
+  });
+});
+
+test("test with eden", function(done) {
+  var expectedResult = JSON.parse(fs.readFileSync(__dirname + '/eden.json', 'utf8'));
+  fs.readFile(__dirname + '/eden.gff3','utf8', function(err,data){
+    if (err) {
+      return console.log(err);
+    }
+    var obj = biojsiogff.parse(data);
     obj = JSON.parse(JSON.stringify(obj));
     obj.should.eql(expectedResult);
     done();
