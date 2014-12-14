@@ -1,1748 +1,2136 @@
 [
-    {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "51"
-    , "end": "51"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "52"
-    , "end": "52"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "53"
-    , "end": "53"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "54"
-    , "end": "54"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "55"
-    , "end": "55"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "56"
-    , "end": "56"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "57"
-    , "end": "57"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "58"
-    , "end": "58"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "59"
-    , "end": "59"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "60"
-    , "end": "60"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "61"
-    , "end": "61"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "62"
-    , "end": "62"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "63"
-    , "end": "63"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "64"
-    , "end": "64"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "65"
-    , "end": "65"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "66"
-    , "end": "66"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "67"
-    , "end": "67"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "68"
-    , "end": "68"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "69"
-    , "end": "69"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "70"
-    , "end": "70"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "71"
-    , "end": "71"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "72"
-    , "end": "72"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "73"
-    , "end": "73"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "74"
-    , "end": "74"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "75"
-    , "end": "75"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "76"
-    , "end": "76"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "77"
-    , "end": "77"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "78"
-    , "end": "78"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "79"
-    , "end": "79"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "80"
-    , "end": "80"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "81"
-    , "end": "81"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "82"
-    , "end": "82"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "83"
-    , "end": "83"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "84"
-    , "end": "84"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "85"
-    , "end": "85"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "86"
-    , "end": "86"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "87"
-    , "end": "87"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "88"
-    , "end": "88"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "89"
-    , "end": "89"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "90"
-    , "end": "90"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "91"
-    , "end": "91"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "92"
-    , "end": "92"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "93"
-    , "end": "93"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "94"
-    , "end": "94"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "95"
-    , "end": "95"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "96"
-    , "end": "96"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "97"
-    , "end": "97"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "98"
-    , "end": "98"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "99"
-    , "end": "99"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "100"
-    , "end": "100"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "101"
-    , "end": "101"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "102"
-    , "end": "102"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "103"
-    , "end": "103"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "104"
-    , "end": "104"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "105"
-    , "end": "105"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "106"
-    , "end": "106"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "107"
-    , "end": "107"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "108"
-    , "end": "108"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "109"
-    , "end": "109"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "110"
-    , "end": "110"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "111"
-    , "end": "111"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "112"
-    , "end": "112"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "113"
-    , "end": "113"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "114"
-    , "end": "114"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "115"
-    , "end": "115"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "116"
-    , "end": "116"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "117"
-    , "end": "117"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "118"
-    , "end": "118"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "119"
-    , "end": "119"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "120"
-    , "end": "120"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "121"
-    , "end": "121"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "122"
-    , "end": "122"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "123"
-    , "end": "123"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "124"
-    , "end": "124"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "125"
-    , "end": "125"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "126"
-    , "end": "126"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "127"
-    , "end": "127"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "128"
-    , "end": "128"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "129"
-    , "end": "129"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "130"
-    , "end": "130"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "131"
-    , "end": "131"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "132"
-    , "end": "132"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "133"
-    , "end": "133"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "134"
-    , "end": "134"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "135"
-    , "end": "135"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "136"
-    , "end": "136"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "137"
-    , "end": "137"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "138"
-    , "end": "138"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "139"
-    , "end": "139"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "140"
-    , "end": "140"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "141"
-    , "end": "141"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "143"
-    , "end": "143"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "144"
-    , "end": "144"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "145"
-    , "end": "145"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "146"
-    , "end": "146"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "FER1_SPIOL"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "147"
-    , "end": "147"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "O80429_MAIZE"
-    , "source": "uniprot"
-    , "feature": "description"
-    , "start": "0"
-    , "end": "0"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "1"
-    , "end": "1"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "2"
-    , "end": "2"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "3"
-    , "end": "3"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "4"
-    , "end": "4"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "5"
-    , "end": "5"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "6"
-    , "end": "6"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "7"
-    , "end": "7"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "8"
-    , "end": "8"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "9"
-    , "end": "9"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "10"
-    , "end": "10"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "11"
-    , "end": "11"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "12"
-    , "end": "12"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "13"
-    , "end": "13"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "14"
-    , "end": "14"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "15"
-    , "end": "15"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "16"
-    , "end": "16"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "17"
-    , "end": "17"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "18"
-    , "end": "18"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "19"
-    , "end": "19"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "20"
-    , "end": "20"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "21"
-    , "end": "21"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "22"
-    , "end": "22"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "23"
-    , "end": "23"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "24"
-    , "end": "24"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "25"
-    , "end": "25"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "26"
-    , "end": "26"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "27"
-    , "end": "27"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "28"
-    , "end": "28"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "29"
-    , "end": "29"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "30"
-    , "end": "30"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "31"
-    , "end": "31"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "32"
-    , "end": "32"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "33"
-    , "end": "33"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "34"
-    , "end": "34"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "35"
-    , "end": "35"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "36"
-    , "end": "36"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "37"
-    , "end": "37"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "38"
-    , "end": "38"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "39"
-    , "end": "39"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "40"
-    , "end": "40"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "41"
-    , "end": "41"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "42"
-    , "end": "42"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "43"
-    , "end": "43"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "44"
-    , "end": "44"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "45"
-    , "end": "45"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "46"
-    , "end": "46"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "47"
-    , "end": "47"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "48"
-    , "end": "48"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "49"
-    , "end": "49"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "50"
-    , "end": "50"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "51"
-    , "end": "51"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "52"
-    , "end": "52"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "53"
-    , "end": "53"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "54"
-    , "end": "54"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "55"
-    , "end": "55"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "56"
-    , "end": "56"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "57"
-    , "end": "57"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "58"
-    , "end": "58"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "59"
-    , "end": "59"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "60"
-    , "end": "60"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "61"
-    , "end": "61"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "62"
-    , "end": "62"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "63"
-    , "end": "63"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "64"
-    , "end": "64"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "65"
-    , "end": "65"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "66"
-    , "end": "66"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "67"
-    , "end": "67"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "68"
-    , "end": "68"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "69"
-    , "end": "69"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "70"
-    , "end": "70"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "71"
-    , "end": "71"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "72"
-    , "end": "72"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "73"
-    , "end": "73"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "74"
-    , "end": "74"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "75"
-    , "end": "75"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "76"
-    , "end": "76"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "77"
-    , "end": "77"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "78"
-    , "end": "78"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "79"
-    , "end": "79"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "80"
-    , "end": "80"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "81"
-    , "end": "81"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "82"
-    , "end": "82"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "83"
-    , "end": "83"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "84"
-    , "end": "84"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "85"
-    , "end": "85"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "86"
-    , "end": "86"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "87"
-    , "end": "87"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "88"
-    , "end": "88"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "89"
-    , "end": "89"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "90"
-    , "end": "90"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "91"
-    , "end": "91"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "92"
-    , "end": "92"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "93"
-    , "end": "93"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "94"
-    , "end": "94"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "95"
-    , "end": "95"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "96"
-    , "end": "96"
-    , "score": "0.0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "1A70|"
-    , "source": "1a70"
-    , "feature": "RESNUM"
-    , "start": "97"
-    , "end": "97"
-    , "score": "0.0"
-    , "attributes": ""
-  }
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "51",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "51",
+      "frame" : ".",
+      "attributes" : {}
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "52",
+      "end" : "52",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "53",
+      "frame" : ".",
+      "strand" : ".",
+      "end" : "53",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "start" : "54",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "54",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "55",
+      "frame" : ".",
+      "end" : "55",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "56",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "56",
+      "frame" : ".",
+      "attributes" : {}
+   },
+   {
+      "frame" : ".",
+      "start" : "57",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "57",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "58",
+      "strand" : ".",
+      "end" : "58"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "59",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "59",
+      "frame" : "."
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "frame" : ".",
+      "start" : "60",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "60",
+      "strand" : "."
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "61",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "61",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "62",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "62",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "63",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "63"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "64",
+      "attributes" : {},
+      "end" : "64",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "65",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "65",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "attributes" : {},
+      "start" : "66",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "66",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "67",
+      "attributes" : {},
+      "end" : "67",
+      "strand" : "."
+   },
+   {
+      "frame" : ".",
+      "start" : "68",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "68",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "strand" : ".",
+      "end" : "69",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "69",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "70",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "70",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "71",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "71",
+      "strand" : "."
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "72",
+      "frame" : ".",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "72"
+   },
+   {
+      "start" : "73",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "73",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "74",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "74",
+      "frame" : "."
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "75",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "75"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "76",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "76",
+      "attributes" : {}
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "77",
+      "strand" : ".",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "77",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "attributes" : {},
+      "start" : "78",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "78",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "79",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "79",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "attributes" : {},
+      "start" : "80",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "80",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "strand" : ".",
+      "end" : "81",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "81",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "strand" : ".",
+      "end" : "82",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "82",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "strand" : ".",
+      "end" : "83",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "83",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "84",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "84"
+   },
+   {
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "85",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "85",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "86",
+      "frame" : ".",
+      "strand" : ".",
+      "end" : "86",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "87",
+      "end" : "87",
+      "strand" : "."
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "88",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "88",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "89",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "89",
+      "frame" : "."
+   },
+   {
+      "attributes" : {},
+      "start" : "90",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "90",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "start" : "91",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "91"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "92",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "92"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "93",
+      "frame" : ".",
+      "end" : "93",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "94",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "94",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "95",
+      "start" : "95",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "96",
+      "start" : "96",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "97",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "97",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "frame" : ".",
+      "start" : "98",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "98"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "99",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "99"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "100",
+      "end" : "100",
+      "strand" : "."
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "101",
+      "frame" : ".",
+      "end" : "101",
+      "strand" : "."
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "102",
+      "frame" : ".",
+      "end" : "102",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "103",
+      "strand" : ".",
+      "frame" : ".",
+      "start" : "103",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "104",
+      "strand" : ".",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "104",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "105",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "105",
+      "frame" : "."
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "106",
+      "frame" : ".",
+      "strand" : ".",
+      "end" : "106",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "107",
+      "end" : "107",
+      "strand" : "."
+   },
+   {
+      "end" : "108",
+      "strand" : ".",
+      "start" : "108",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "109",
+      "frame" : ".",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "109",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "110",
+      "strand" : ".",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "110",
+      "source" : "1a70",
+      "score" : "0.0",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "start" : "111",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "111",
+      "strand" : "."
+   },
+   {
+      "frame" : ".",
+      "start" : "112",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "112",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "start" : "113",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "113",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "strand" : ".",
+      "end" : "114",
+      "frame" : ".",
+      "start" : "114",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "115",
+      "frame" : ".",
+      "attributes" : {},
+      "end" : "115",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "start" : "116",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "116",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "frame" : ".",
+      "start" : "117",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "117"
+   },
+   {
+      "end" : "118",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "118",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "119",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "119",
+      "frame" : "."
+   },
+   {
+      "end" : "120",
+      "strand" : ".",
+      "attributes" : {},
+      "start" : "120",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "end" : "121",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "121",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "frame" : ".",
+      "start" : "122",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "122",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "123",
+      "frame" : ".",
+      "end" : "123",
+      "strand" : "."
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "124",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "124"
+   },
+   {
+      "end" : "125",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "125",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "start" : "126",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "126"
+   },
+   {
+      "end" : "127",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "127",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "128",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "128",
+      "frame" : ".",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "129",
+      "attributes" : {},
+      "end" : "129",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "end" : "130",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "130",
+      "frame" : ".",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "131",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "131",
+      "strand" : "."
+   },
+   {
+      "frame" : ".",
+      "start" : "132",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "132",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "frame" : ".",
+      "start" : "133",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "133",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "134",
+      "strand" : ".",
+      "end" : "134"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "135",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "135"
+   },
+   {
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "136",
+      "frame" : ".",
+      "attributes" : {},
+      "end" : "136",
+      "strand" : "."
+   },
+   {
+      "start" : "137",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "137",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "strand" : ".",
+      "end" : "138",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "138",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "139",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "139"
+   },
+   {
+      "end" : "140",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "140",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "end" : "141",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "141",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "attributes" : {},
+      "start" : "143",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "143",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "strand" : ".",
+      "end" : "144",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "144",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL"
+   },
+   {
+      "start" : "145",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "145",
+      "strand" : ".",
+      "seqname" : "FER1_SPIOL",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "146",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "146",
+      "frame" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "FER1_SPIOL",
+      "strand" : ".",
+      "end" : "147",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "147",
+      "frame" : "."
+   },
+   {
+      "seqname" : "O80429_MAIZE",
+      "feature" : "description",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "0",
+      "source" : "uniprot",
+      "score" : "0.0",
+      "end" : "0",
+      "strand" : "."
+   },
+   {
+      "end" : "1",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "1",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "end" : "2",
+      "strand" : ".",
+      "frame" : ".",
+      "start" : "2",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "3",
+      "end" : "3",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "strand" : ".",
+      "end" : "4",
+      "frame" : ".",
+      "start" : "4",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "5",
+      "frame" : ".",
+      "attributes" : {},
+      "end" : "5",
+      "strand" : "."
+   },
+   {
+      "end" : "6",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "6",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "7",
+      "end" : "7",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "attributes" : {},
+      "start" : "8",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "8",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "9",
+      "strand" : ".",
+      "end" : "9",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "10",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "10",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "11",
+      "start" : "11",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "end" : "12",
+      "strand" : ".",
+      "attributes" : {},
+      "start" : "12",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "frame" : ".",
+      "start" : "13",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "13",
+      "strand" : "."
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "start" : "14",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "14",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "15",
+      "strand" : ".",
+      "attributes" : {},
+      "start" : "15",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "frame" : ".",
+      "start" : "16",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "16",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "17",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "17",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "18",
+      "attributes" : {},
+      "end" : "18",
+      "strand" : "."
+   },
+   {
+      "end" : "19",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "19",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "20",
+      "strand" : ".",
+      "attributes" : {},
+      "start" : "20",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "21",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "21",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "22",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "22",
+      "strand" : "."
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "start" : "23",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "23"
+   },
+   {
+      "strand" : ".",
+      "end" : "24",
+      "start" : "24",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "25",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "25",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "end" : "26",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "26",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "27",
+      "strand" : ".",
+      "start" : "27",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "strand" : ".",
+      "end" : "28",
+      "attributes" : {},
+      "start" : "28",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "29",
+      "strand" : ".",
+      "start" : "29",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "30",
+      "frame" : ".",
+      "strand" : ".",
+      "end" : "30",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "31",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "31",
+      "strand" : "."
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "frame" : ".",
+      "start" : "32",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "32"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "33",
+      "frame" : ".",
+      "attributes" : {},
+      "end" : "33",
+      "strand" : "."
+   },
+   {
+      "end" : "34",
+      "strand" : ".",
+      "frame" : ".",
+      "start" : "34",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "35",
+      "frame" : ".",
+      "end" : "35",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "36",
+      "attributes" : {},
+      "end" : "36",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "37",
+      "frame" : ".",
+      "start" : "37",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "frame" : ".",
+      "start" : "38",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "38",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "39",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "39",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "end" : "40",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "40",
+      "frame" : ".",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "41",
+      "attributes" : {},
+      "end" : "41",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "42",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "42",
+      "frame" : ".",
+      "attributes" : {}
+   },
+   {
+      "strand" : ".",
+      "end" : "43",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "43",
+      "source" : "1a70",
+      "score" : "0.0",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "44",
+      "frame" : ".",
+      "attributes" : {},
+      "end" : "44",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "strand" : ".",
+      "end" : "45",
+      "frame" : ".",
+      "start" : "45",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "46",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "46",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "47",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "47"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "start" : "48",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "48",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "49",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "49",
+      "attributes" : {}
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "50",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "50",
+      "attributes" : {}
+   },
+   {
+      "strand" : ".",
+      "end" : "51",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "51",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "52",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "52",
+      "frame" : "."
+   },
+   {
+      "strand" : ".",
+      "end" : "53",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "53",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "start" : "54",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "54",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "55",
+      "frame" : ".",
+      "attributes" : {},
+      "end" : "55",
+      "strand" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "56",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "56"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "57",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "57",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "58",
+      "frame" : ".",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "58"
+   },
+   {
+      "end" : "59",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "59",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "60",
+      "frame" : ".",
+      "start" : "60",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "strand" : ".",
+      "end" : "61",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "61",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "62",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "62"
+   },
+   {
+      "strand" : ".",
+      "end" : "63",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "63",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "64",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "64"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "65",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "65",
+      "frame" : ".",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "66",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "66"
+   },
+   {
+      "start" : "67",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "67",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "68",
+      "strand" : ".",
+      "frame" : ".",
+      "start" : "68",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "strand" : ".",
+      "end" : "69",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "69"
+   },
+   {
+      "strand" : ".",
+      "end" : "70",
+      "attributes" : {},
+      "start" : "70",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "71",
+      "strand" : ".",
+      "attributes" : {},
+      "start" : "71",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "72",
+      "strand" : ".",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "72",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "73",
+      "strand" : ".",
+      "attributes" : {},
+      "start" : "73",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "74",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "74"
+   },
+   {
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "75",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "75",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "76",
+      "strand" : ".",
+      "frame" : ".",
+      "start" : "76",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "strand" : ".",
+      "end" : "77",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "77",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "78",
+      "frame" : ".",
+      "end" : "78",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "79",
+      "strand" : ".",
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "79",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "80",
+      "frame" : ".",
+      "attributes" : {},
+      "end" : "80",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "81",
+      "end" : "81",
+      "strand" : "."
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "start" : "82",
+      "frame" : ".",
+      "attributes" : {},
+      "strand" : ".",
+      "end" : "82",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "start" : "83",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "end" : "83",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "84",
+      "strand" : ".",
+      "end" : "84",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "start" : "85",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "85",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "86",
+      "strand" : ".",
+      "start" : "86",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "attributes" : {},
+      "start" : "87",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "end" : "87",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "88",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "88",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "89",
+      "frame" : ".",
+      "strand" : ".",
+      "end" : "89",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "end" : "90",
+      "strand" : ".",
+      "attributes" : {},
+      "frame" : ".",
+      "start" : "90",
+      "source" : "1a70",
+      "score" : "0.0",
+      "feature" : "RESNUM",
+      "seqname" : "1A70|"
+   },
+   {
+      "score" : "0.0",
+      "source" : "1a70",
+      "frame" : ".",
+      "start" : "91",
+      "attributes" : {},
+      "end" : "91",
+      "strand" : ".",
+      "seqname" : "1A70|",
+      "feature" : "RESNUM"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "92",
+      "strand" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "92",
+      "frame" : "."
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "93",
+      "strand" : ".",
+      "start" : "93",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "start" : "94",
+      "frame" : ".",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70",
+      "strand" : ".",
+      "end" : "94"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "attributes" : {},
+      "start" : "95",
+      "frame" : ".",
+      "source" : "1a70",
+      "score" : "0.0",
+      "strand" : ".",
+      "end" : "95"
+   },
+   {
+      "seqname" : "1A70|",
+      "feature" : "RESNUM",
+      "source" : "1a70",
+      "score" : "0.0",
+      "attributes" : {},
+      "start" : "96",
+      "frame" : ".",
+      "strand" : ".",
+      "end" : "96"
+   },
+   {
+      "feature" : "RESNUM",
+      "seqname" : "1A70|",
+      "end" : "97",
+      "strand" : ".",
+      "frame" : ".",
+      "start" : "97",
+      "attributes" : {},
+      "score" : "0.0",
+      "source" : "1a70"
+   }
 ]

@@ -1,1 +1,0 @@
-biojsiogff = require('./index');

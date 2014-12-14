@@ -1,72 +1,79 @@
 [
-    {
-      "seqname": "SEQ1"
-    , "source": "EMBL"
-    , "feature": "atg"
-    , "start": "103"
-    , "end": "105"
-    , "strand": "+"
-    , "frame": "0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "SEQ1"
-    , "source": "EMBL"
-    , "feature": "exon"
-    , "start": "103"
-    , "end": "172"
-    , "strand": "+"
-    , "frame": "0"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "SEQ1"
-    , "source": "EMBL"
-    , "feature": "splice5"
-    , "start": "172"
-    , "end": "173"
-    , "strand": "+"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "SEQ1"
-    , "source": "netgene"
-    , "feature": "splice5"
-    , "start": "172"
-    , "end": "173"
-    , "score": "0.94"
-    , "strand": "+"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "SEQ1"
-    , "source": "genie"
-    , "feature": "sp5-20"
-    , "start": "163"
-    , "end": "182"
-    , "score": "2.3"
-    , "strand": "+"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "SEQ1"
-    , "source": "genie"
-    , "feature": "sp5-10"
-    , "start": "168"
-    , "end": "177"
-    , "score": "2.1"
-    , "strand": "+"
-    , "attributes": ""
-  }
-  , {
-      "seqname": "SEQ2"
-    , "source": "grail"
-    , "feature": "ATG"
-    , "start": "17"
-    , "end": "19"
-    , "score": "2.1"
-    , "strand": "-"
-    , "frame": "0"
-    , "attributes": ""
-  }
+   {
+      "feature" : "atg",
+      "attributes" : {},
+      "score" : ".",
+      "end" : "105",
+      "start" : "103",
+      "source" : "EMBL",
+      "frame" : "0",
+      "strand" : "+",
+      "seqname" : "SEQ1"
+   },
+   {
+      "seqname" : "SEQ1",
+      "strand" : "+",
+      "frame" : "0",
+      "source" : "EMBL",
+      "start" : "103",
+      "score" : ".",
+      "end" : "172",
+      "attributes" : {},
+      "feature" : "exon"
+   },
+   {
+      "strand" : "+",
+      "seqname" : "SEQ1",
+      "source" : "EMBL",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "splice5",
+      "start" : "172",
+      "score" : ".",
+      "end" : "173"
+   },
+   {
+      "strand" : "+",
+      "seqname" : "SEQ1",
+      "source" : "netgene",
+      "frame" : ".",
+      "attributes" : {},
+      "feature" : "splice5",
+      "start" : "172",
+      "end" : "173",
+      "score" : "0.94"
+   },
+   {
+      "frame" : ".",
+      "source" : "genie",
+      "seqname" : "SEQ1",
+      "strand" : "+",
+      "end" : "182",
+      "score" : "2.3",
+      "start" : "163",
+      "feature" : "sp5-20",
+      "attributes" : {}
+   },
+   {
+      "seqname" : "SEQ1",
+      "strand" : "+",
+      "frame" : ".",
+      "source" : "genie",
+      "start" : "168",
+      "score" : "2.1",
+      "end" : "177",
+      "attributes" : {},
+      "feature" : "sp5-10"
+   },
+   {
+      "start" : "17",
+      "end" : "19",
+      "score" : "2.1",
+      "attributes" : {},
+      "feature" : "ATG",
+      "seqname" : "SEQ2",
+      "strand" : "-",
+      "frame" : "0",
+      "source" : "grail"
+   }
 ]

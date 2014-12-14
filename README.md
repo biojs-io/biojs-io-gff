@@ -16,14 +16,13 @@ Install the module with: `npm install biojs-io-gff`
 
 ```javascript
 var gff = require('biojs-io-gff');
-gff.hello("biojs"); // "hello biojs"
 ```
 
 ## Documentation
 
 #### .parse(file)
 
-**Parameter**: `file`
+**Parameter**: `GFF file`
 **Type**: `String`
 **Example**: `SEQ1  EMBL  atg  103  105  .  +  0`
 
@@ -49,13 +48,46 @@ __Result__
     attributes: '' } ]
 ```
 
-#### .read(url)
+#### .parseSeqs(file)
 
-**Parameter**: `url`
+**Parameter**: `GFF file`
 **Type**: `String`
-**Example**: `https://raw.githubusercontent.com/greenify/biojs-io-gff/master/test/dummy.gff`
+**Example**: `SEQ1  EMBL  atg  103  105  .  +  0`
+
+Returns a dictionary of all sequences. Each sequences is an array of its features.
+
+```javascript
+gff.parseSeqs('SEQ1  EMBL  atg  103  105  .  +  0');
+```
+
+__Result__
+
+```
+{ "SEQ1": 
+	[ { seqname: 'SEQ1',
+	    source: 'EMBL',
+	    feature: 'atg',
+	    start: '103',
+	    end: '105',
+	    score: undefined,
+	    strand: '+',
+	    frame: '0',
+	    attributes: '' } ]
+}
+```
+
+#### .parseLine(line)
+
+**Parameter**: `GFF line`
+**Type**: `String`
+**Example**: `SEQ1  EMBL  atg  103  105  .  +  0`
+
+The 'parseLine' method converts a GFF line into its JSON representation.
 
 
+```javascript
+gff.parseLine('SEQ1  EMBL  atg  103  105  .  +  0');
+```
 
 ## Contributing
 
