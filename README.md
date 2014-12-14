@@ -18,6 +18,7 @@ Install the module with: `npm install biojs-io-gff`
 var gff = require('biojs-io-gff');
 ```
 
+
 ## Documentation
 
 #### .parse(file)
@@ -40,12 +41,11 @@ __Result__
 [ { seqname: 'SEQ1',
     source: 'EMBL',
     feature: 'atg',
-    start: '103',
-    end: '105',
-    score: undefined,
+    start: 103,
+    end: 105,
     strand: '+',
-    frame: '0',
-    attributes: '' } ]
+    frame: 0,
+    attributes: {} } ]
 ```
 
 #### .parseSeqs(file)
@@ -67,12 +67,11 @@ __Result__
 	[ { seqname: 'SEQ1',
 	    source: 'EMBL',
 	    feature: 'atg',
-	    start: '103',
-	    end: '105',
-	    score: undefined,
-	    strand: '+',
-	    frame: '0',
-	    attributes: '' } ]
+	    start: 103,
+    	end: 105,
+    	strand: '+',
+    	frame: 0,
+    	attributes: {} } ]
 }
 ```
 
@@ -88,6 +87,10 @@ The 'parseLine' method converts a GFF line into its JSON representation.
 ```javascript
 gff.parseLine('SEQ1  EMBL  atg  103  105  .  +  0');
 ```
+
+## Gotchas
+
+* undefined properties (dots) are removed (checking for undefined is native)
 
 ## Contributing
 

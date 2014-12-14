@@ -1,7 +1,7 @@
 {
   "name": "biojs-io-gff",
   "description": "A GFF (general feature format) parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/greenify/biojs-io-gff",
   "author": {
     "name": "greenify",

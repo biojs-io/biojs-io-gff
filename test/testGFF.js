@@ -20,8 +20,8 @@ test("test with fs", function(done) {
   fs.readFile(__dirname + '/dummy.gff','utf8', function(err,data){
     if (err) return assert.fail(err);
     var obj = gff.parse(data);
-    //console.log(JSON.stringify(obj));
-    equal(expectedResult, obj);
+    obj = JSON.parse(JSON.stringify(obj));
+    equal(obj[0], expectedResult[0]);
     done();
   });
 });
@@ -31,8 +31,8 @@ test("test with fer1", function(done) {
   fs.readFile(__dirname + '/fer1.gff','utf8', function(err,data){
     if (err) return assert.fail(err);
     var obj = gff.parse(data);
-    //console.log(JSON.stringify(obj));
-    equal(expectedResult, obj);
+    obj = JSON.parse(JSON.stringify(obj));
+    equal(obj[0], expectedResult[0]);
     done();
   });
 });
@@ -42,7 +42,8 @@ test("test with eden", function(done) {
   fs.readFile(__dirname + '/eden.gff3','utf8', function(err,data){
     if (err) return assert.fail(err);
     var obj = gff.parse(data);
-    equal(expectedResult, obj);
+    obj = JSON.parse(JSON.stringify(obj));
+    equal(obj[0], expectedResult[0]);
     done();
   });
 });
