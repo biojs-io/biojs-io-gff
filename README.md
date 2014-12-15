@@ -11,13 +11,17 @@
 <seqname> <source> <feature> <start> <end> <score> <strand> <frame> [attributes] [comments]
 ```
 
+## Supported formats
+
+* [GFF 3](http://www.sequenceontology.org/gff3.shtml)
+* [Jalview feature format](http://www.jalview.org/help/html/features/featuresFormat.html)
+
 ## Getting Started
 Install the module with: `npm install biojs-io-gff`
 
 ```javascript
 var gff = require('biojs-io-gff');
 ```
-
 
 ## Documentation
 
@@ -38,14 +42,19 @@ gff.parse('SEQ1  EMBL  atg  103  105  .  +  0');
 __Result__
 
 ```
-[ { seqname: 'SEQ1',
-    source: 'EMBL',
-    feature: 'atg',
-    start: 103,
-    end: 105,
-    strand: '+',
-    frame: 0,
-    attributes: {} } ]
+{ "features":
+	[{ seqname: 'SEQ1',
+    	source: 'EMBL',
+    	feature: 'atg',
+    	start: 103,
+    	end: 105,
+    	strand: '+',
+    	frame: 0,
+    	attributes: {} } ],
+  "config": {
+	type: "gff3"
+  }
+}
 ```
 
 #### .parseSeqs(file)
@@ -63,15 +72,20 @@ gff.parseSeqs('SEQ1  EMBL  atg  103  105  .  +  0');
 __Result__
 
 ```
-{ "SEQ1": 
-	[ { seqname: 'SEQ1',
-	    source: 'EMBL',
-	    feature: 'atg',
-	    start: 103,
-    	end: 105,
-    	strand: '+',
-    	frame: 0,
-    	attributes: {} } ]
+{ "seqs":
+  { "SEQ1": 
+		[ { seqname: 'SEQ1',
+		    source: 'EMBL',
+		    feature: 'atg',
+		    start: 103,
+	    	end: 105,
+	    	strand: '+',
+	    	frame: 0,
+	    	attributes: {} } ]
+  },
+  "config": {
+	type: "gff3"
+  }
 }
 ```
 
