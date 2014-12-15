@@ -49,6 +49,29 @@ test("test with eden", function(done) {
   });
 });
 
+test("test import/export", function(done) {
+  fs.readFile(__dirname + '/import.gff3','utf8', function(err,data){
+    if (err) return assert.fail(err);
+    var obj = gff.parse(data).features;
+    equal(gff.exportLines(obj).split("\n"), data.split("\n").filter(function(e){
+     return e;                                                              
+    }));
+    done();
+  });
+});
+
+test("test import/export: seqs", function(done) {
+  fs.readFile(__dirname + '/import.gff3','utf8', function(err,data){
+    if (err) return assert.fail(err);
+    var obj = gff.parseSeqs(data).seqs;
+    equal(gff.exportSeqs(obj).split("\n"), data.split("\n").filter(function(e){
+     return e;                                                              
+    }));
+    done();
+  });
+});
+
+
 test("test with jalview", function(done) {
   var expectedResult = JSON.parse(fs.readFileSync(__dirname + '/eden.json', 'utf8'));
   fs.readFile(__dirname + '/feature.jalview','utf8', function(err,data){

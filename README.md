@@ -89,6 +89,14 @@ __Result__
 }
 ```
 
+#### .exportLines(lines)
+
+Return the textual GFF representation for the given lines
+
+#### .exportSeqs(seqs)
+
+Return the textual GFF representation for the given seqs
+
 #### .parseLine(line)
 
 **Parameter**: `GFF line`
