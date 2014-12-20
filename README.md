@@ -11,6 +11,8 @@
 <seqname> <source> <feature> <start> <end> <score> <strand> <frame> [attributes] [comments]
 ```
 
+Short [description about the formats](https://github.com/greenify/biojs-vis-msa/wiki/Annotation-Features).
+
 ## Supported formats
 
 * [GFF 3](http://www.sequenceontology.org/gff3.shtml)
