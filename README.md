@@ -27,41 +27,23 @@ var gff = require('biojs-io-gff');
 
 ## Documentation
 
-#### .parse(file)
+#### `.read(file, cb)`
 
-**Parameter**: `GFF file`
-**Type**: `String`
-**Example**: `SEQ1  EMBL  atg  103  105  .  +  0`
-
-The 'parse' method converts a GFF into its JSON representation.
-
-How to use this method
+Callback with `parseSeqs` or Promise
 
 ```javascript
-gff.parse('SEQ1  EMBL  atg  103  105  .  +  0');
+var p = gff.read("https://cdn.rawgit.com/greenify/biojs-io-gff/master/test/import.gff3");
+// ..
+p.then(function(seqs){
+  // handle the model
+}, function(err){
+	console.warn(err);
+});
 ```
 
-__Result__
+#### `.parseSeqs(str)` (alias: `parse`)
 
-```
-{ "features":
-	[{ seqname: 'SEQ1',
-    	source: 'EMBL',
-    	feature: 'atg',
-    	start: 103,
-    	end: 105,
-    	strand: '+',
-    	frame: 0,
-    	attributes: {} } ],
-  "config": {
-	type: "gff3"
-  }
-}
-```
-
-#### .parseSeqs(file)
-
-**Parameter**: `GFF file`
+**Parameter**: `GFF file` (as string)
 **Type**: `String`
 **Example**: `SEQ1  EMBL  atg  103  105  .  +  0`
 
@@ -91,15 +73,46 @@ __Result__
 }
 ```
 
-#### .exportLines(lines)
+#### `.parseLines(str)`
+
+**Parameter**: `GFF file`
+**Type**: `String`
+**Example**: `SEQ1  EMBL  atg  103  105  .  +  0`
+
+The 'parse' method converts a GFF into its JSON representation.
+
+How to use this method
+
+```javascript
+gff.parseLines('SEQ1  EMBL  atg  103  105  .  +  0');
+```
+
+__Result__
+
+```
+{ "features":
+	[{ seqname: 'SEQ1',
+    	source: 'EMBL',
+    	feature: 'atg',
+    	start: 103,
+    	end: 105,
+    	strand: '+',
+    	frame: 0,
+    	attributes: {} } ],
+  "config": {
+	type: "gff3"
+  }
+}
+```
+#### `.exportLines(lines)`
 
 Return the textual GFF representation for the given lines
 
-#### .exportSeqs(seqs)
+#### `.exportSeqs(seqs)` (alias: `export`)
 
 Return the textual GFF representation for the given seqs
 
-#### .parseLine(line)
+#### `.parseLine(line)`
 
 **Parameter**: `GFF line`
 **Type**: `String`

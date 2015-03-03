@@ -20,7 +20,7 @@ test("test with fs", function(done) {
   var expectedResult = JSON.parse(fs.readFileSync(__dirname + '/dummy.json', 'utf8'));
   fs.readFile(__dirname + '/dummy.gff','utf8', function(err,data){
     if (err) return assert.fail(err);
-    var obj = gff.parse(data).features;
+    var obj = gff.parseLines(data).features;
     obj = JSON.parse(JSON.stringify(obj));
     equal(obj[0], expectedResult[0]);
     done();
@@ -31,7 +31,7 @@ test("test with fer1", function(done) {
   var expectedResult = JSON.parse(fs.readFileSync(__dirname + '/fer1.json', 'utf8'));
   fs.readFile(__dirname + '/fer1.gff','utf8', function(err,data){
     if (err) return assert.fail(err);
-    var obj = gff.parse(data).features;
+    var obj = gff.parseLines(data).features;
     obj = JSON.parse(JSON.stringify(obj));
     equal(obj[0], expectedResult[0]);
     done();
@@ -42,7 +42,7 @@ test("test with eden", function(done) {
   var expectedResult = JSON.parse(fs.readFileSync(__dirname + '/eden.json', 'utf8'));
   fs.readFile(__dirname + '/eden.gff3','utf8', function(err,data){
     if (err) return assert.fail(err);
-    var obj = gff.parse(data).features;
+    var obj = gff.parseLines(data).features;
     obj = JSON.parse(JSON.stringify(obj));
     equal(obj[0], expectedResult[0]);
     done();
@@ -52,7 +52,7 @@ test("test with eden", function(done) {
 test("test import/export", function(done) {
   fs.readFile(__dirname + '/import.gff3','utf8', function(err,data){
     if (err) return assert.fail(err);
-    var obj = gff.parse(data).features;
+    var obj = gff.parseLines(data).features;
     equal(gff.exportLines(obj).split("\n"), data.split("\n").filter(function(e){
      return e;                                                              
     }));
@@ -76,7 +76,7 @@ test("test with jalview", function(done) {
   var expectedResult = JSON.parse(fs.readFileSync(__dirname + '/eden.json', 'utf8'));
   fs.readFile(__dirname + '/feature.jalview','utf8', function(err,data){
     if (err) return assert.fail(err);
-    var obj = gff.parse(data);
+    var obj = gff.parseLines(data);
     var features = JSON.parse(JSON.stringify(obj.features));
     equal("#009ba5", obj.config.colors["signal peptide"]);
     equal(9, Object.keys(obj.config.colors).length);

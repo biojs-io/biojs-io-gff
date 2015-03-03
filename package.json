@@ -1,7 +1,7 @@
 {
   "name": "biojs-io-gff",
   "description": "A GFF (general feature format) parser",
-  "version": "0.1.7",
+  "version": "0.1.10",
   "homepage": "https://github.com/greenify/biojs-io-gff",
   "author": {
     "name": "greenify",
@@ -29,6 +29,7 @@
     "watch": "mkdirp build; watchify browser.js -o build/biojs-io-gff.js"
   },
   "dependencies": {
+    "biojs-io-parser": "^1.0.0",
     "gulp": "^3.8.10",
     "nets": "^1.0.0"
   },
