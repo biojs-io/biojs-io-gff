@@ -129,6 +129,10 @@ gff.parseLine('SEQ1  EMBL  atg  103  105  .  +  0');
 
 * undefined properties (dots) are removed (checking for undefined is native)
 
+## TODO
+
+* add option to group seqs after parent
+
 ## Contributing
 
 Please submit all issues and pull requests to the [greenify/biojs-io-gff](http://github.com/greenify/biojs-io-gff) repository!
